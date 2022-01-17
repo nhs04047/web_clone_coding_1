@@ -49,6 +49,7 @@ nav ul a:hover{
 #menu-icon{
     display: none;
 }
+
 @media (min-width:300px) and (max-width:890px){
     nav ul{
         display: none;
