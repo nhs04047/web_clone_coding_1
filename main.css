@@ -1,5 +1,5 @@
 main{
-    width:95%;
+    width:90%;
     margin: 0 auto;
     
 }
@@ -59,7 +59,6 @@ section{
     margin:20px;
     text-align: center;
 }
-.sourcecode a{
-    margin: 0 auto;
+.sourcecode > div {
     text-align: center;
 }

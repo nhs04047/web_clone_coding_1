@@ -1,0 +1,45 @@
+.footer {
+    width:95%;
+    margin: 0 auto;
+    padding:10px;
+    background-color: black;
+    color:white;
+    display: flex;
+}
+.quick-container{
+    flex:1;
+    border-right: 2px solid red;
+}
+.quick{
+    margin:10px 20px;
+}
+.quick > h4{
+    margin-bottom: 10px;
+}
+.quick-list{
+    list-style: none;
+    font-size:12px;
+}
+.quick-list > li{
+    margin:4px 0;
+}
+.sns{
+    flex:2;
+    text-align: center;
+}
+
+.sns > p {
+    font-size:10px;
+    margin: 10px 0;
+}
+.sns > h4{
+    margin:10px 0 20px 0;
+    font-size:20px;
+}
+.sns-icon{
+    margin: 20px 0;
+    font-size:30px;
+}
+.sns-icon > i{
+    margin: 0 10px;
+}
